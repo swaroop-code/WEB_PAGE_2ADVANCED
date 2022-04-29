@@ -17,3 +17,6 @@ About Page Snapshots For Reference
 ![Screenshot (142)](https://user-images.githubusercontent.com/85160238/165803307-645200bc-140b-4e73-b5e3-71cc046f9607.png)
 
 Courses Page Snapshots For Reference
+
+![Screenshot (143)](https://user-images.githubusercontent.com/85160238/165806991-70daf76e-7e77-4c7c-95f9-a34de0c5bbaf.png)
+![Screenshot (144)](https://user-images.githubusercontent.com/85160238/165807040-03e2e17e-bc33-4824-9e20-52b79d228297.png)
