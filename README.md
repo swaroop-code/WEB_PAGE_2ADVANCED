@@ -35,5 +35,6 @@ Other Pages Snapshots
 ![Screenshot (148)](https://user-images.githubusercontent.com/85160238/165885678-ef653d99-9ea1-42ed-b396-f0028e8c5747.png)
 ![Screenshot (145)](https://user-images.githubusercontent.com/85160238/165885680-e4519bf2-3804-49f4-8318-6ece526f2eca.png)
 
+<br>
 
-Thank You!!!!!!!!!!!!!!!!
+Copyright: https://www.instagram.com/musified_rhythm
